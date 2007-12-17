@@ -9,7 +9,6 @@ Group:		Development/Perl
 Source:		Time-modules-%{version}.tar.bz2
 URL:		http://www.cpan.org/modules/by-module/Time/
 Requires:	perl
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 BuildRequires:	perl-devel >= 5.8.0
 BuildArch:	noarch
 
