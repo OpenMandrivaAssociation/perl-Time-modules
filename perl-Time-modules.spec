@@ -3,7 +3,7 @@
 Summary:	Time modules for perl
 Name:		perl-Time-modules
 Version:	%{version}
-Release:	%mkrel 2
+Release:	%mkrel 3
 License:	distributable
 Group:		Development/Perl
 Source:		Time-modules-%{version}.tar.bz2
