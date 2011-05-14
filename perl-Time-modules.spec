@@ -1,9 +1,9 @@
-%define version 2006.0814
+%define version 2011.0505
 
 Summary:	Time modules for perl
 Name:		perl-Time-modules
 Version:	%{version}
-Release:	%mkrel 5
+Release:	%mkrel 1
 License:	distributable
 Group:		Development/Perl
 Source:		Time-modules-%{version}.tar.bz2
