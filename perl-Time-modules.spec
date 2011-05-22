@@ -1,4 +1,4 @@
-%define version 2011.0505
+%define version 2011.0517
 
 Summary:	Time modules for perl
 Name:		perl-Time-modules
