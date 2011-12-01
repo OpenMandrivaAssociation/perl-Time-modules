@@ -33,11 +33,11 @@ This package contains the following perl5 modules:
 %{__make}
 
 %install
-rm -rf $RPM_BUILD_ROOT
-%{__make} PREFIX=$RPM_BUILD_ROOT%{_prefix} install
+rm -rf %{buildroot}
+%{__make} PREFIX=%{buildroot}%{_prefix} install
 
 %clean
-rm -rf $RPM_BUILD_ROOT
+rm -rf %{buildroot}
 
 %files
 %defattr(-,root,root)
