@@ -3,7 +3,7 @@
 Summary:	Time modules for perl
 Name:		perl-Time-modules
 Version:	%{version}
-Release:	10
+Release:	11
 License:	distributable
 Group:		Development/Perl
 Url:		http://www.cpan.org/modules/by-module/Time/
