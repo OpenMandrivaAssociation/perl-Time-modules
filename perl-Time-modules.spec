@@ -6,7 +6,7 @@ Version:	%{version}
 Release:	14
 License:	distributable
 Group:		Development/Perl
-Url:		http://www.cpan.org/modules/by-module/Time/
+Url:		https://www.cpan.org/modules/by-module/Time/
 Source0:	Time-modules-%{version}.tar.bz2
 BuildArch:	noarch
 BuildRequires:	perl-devel >= 5.8.0
